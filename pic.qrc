@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>map.png</file>
+    </qresource>
+    <qresource prefix="/dot">
+        <file>small_dot.png</file>
+        <file>big_dot.png</file>
+    </qresource>
+    <qresource prefix="/ghost">
+        <file>ghost4_u.png</file>
+        <file>ghost4_r.png</file>
+        <file>ghost4_l.png</file>
+        <file>ghost4_d.png</file>
+        <file>ghost3_u.png</file>
+        <file>ghost3_r.png</file>
+        <file>ghost3_l.png</file>
+        <file>ghost3_d.png</file>
+        <file>ghost2_u.png</file>
+        <file>ghost2_r.png</file>
+        <file>ghost2_l.png</file>
+        <file>ghost2_d.png</file>
+        <file>ghost1_u.png</file>
+        <file>ghost1_r.png</file>
+        <file>ghost1_l.png</file>
+        <file>ghost1_d.png</file>
+        <file>ghost.png</file>
+    </qresource>
+    <qresource prefix="/pacman">
+        <file>pm3_u.png</file>
+        <file>pm3_r.png</file>
+        <file>pm3_l.png</file>
+        <file>pm3_d.png</file>
+        <file>pm2_u.png</file>
+        <file>pm2_r.png</file>
+        <file>pm2_l.png</file>
+        <file>pm2_d.png</file>
+        <file>pm1_u.png</file>
+        <file>pm1_r.png</file>
+        <file>pm1_l.png</file>
+        <file>pm1_d.png</file>
+    </qresource>
+</RCC>
